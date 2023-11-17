@@ -2,7 +2,7 @@
 
 ## > Sobre Mim: 
 #### Técnico em Desenvolvimento de Sistemas pela <a href="http://www.etecjau.com.br/etecjau/">ETEC Joaquim Ferreira do Amaral</a>.
-#### 💾 - Dev. FullStack estudando sobre Mobile
+#### 💾 - Dev. FullStack & estudando Mobile
 #### 📚 - Estudando tudo sobre front-end, back-end e mobile na <a href="https://www.alura.com.br">alura</a>
 #### 📓 - Cursando Análise e Desenvolvimento de Sistemas
 <br><br>
