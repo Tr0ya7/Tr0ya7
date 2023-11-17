@@ -25,6 +25,7 @@
 <code><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Node.js-68a063?style=for-the-badge&logo=node.js&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/Sql-68a063?style=for-the-badge&logo=databricks&logoColor=white"></code>
 </p>
 <br>
 <p>
