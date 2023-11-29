@@ -5,7 +5,7 @@
 #### 💾 - Dev. FullStack & estudando Mobile
 #### 📚 - Estudando tudo sobre front-end, back-end e mobile na <a href="https://www.alura.com.br">alura</a>
 #### 📓 - Cursando Análise e Desenvolvimento de Sistemas
-<br><br>
+<br>
 
 ## > Contato:
 <a href="LuizHBarros@proton.me"><code><img src="https://img.shields.io/badge/Proton Mail-6D4AFF?style=for-the-badge&logo=ProtonMail&logoColor=white"></a></code>
