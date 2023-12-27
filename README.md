@@ -15,18 +15,28 @@
 
 </p>
 <p align='center'>
-  <strong>📖 Html, Css, JavaScript, Java, Styled Components, Sass, TailwindCss, Bootstrap, React, Next.js, Node, Sql</strong>
+  <strong>📖 Html, Css, JavaScript, TypeScript Java, Styled Components, Sass, TailwindCss, Bootstrap, React, Next.js, Node, Sql</strong>
   <br>
   <div align='center'>
     <img src="https://skillicons.dev/icons?i=html,css,js,java,styledcomponents,sass,tailwindcss,bootstrap,react,next,nodejs,mysql&perline=6"/>
+    <br>
+    <br>
+    <code><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></code>
   </div>
 </p>
+
 <br>
+
 <p align='center'>
   <strong>📖 VS Code, Visual Studio, Eclipse, Sublime, Postman, Firebird, Mysql, Sqlite, Canva</strong>
   <br>
   <div align='center'>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,postman,sqlite&perline=6"/>
+    <br>
+    <br>
+    <code><img src="https://img.shields.io/badge/Sublime-black?style=for-the-badge&logo=sublimetext&logoColor=orange"></code>
+    <code><img src="https://img.shields.io/badge/Firebird-white?style=for-the-badge&logo=firebird&logoColor=orange"></code>
+    <code><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></code>
   </div>
 </p>
 <br>
@@ -37,7 +47,6 @@
 ## > Estudando:
 <p>
 <code><img src="https://img.shields.io/badge/React Native-3f444f?style=for-the-badge&logo=react&logoColor=blue"></code>
-<code><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></code>
 </p>
 
 <p align="center">
