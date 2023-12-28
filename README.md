@@ -45,8 +45,8 @@
 </p>
 
 ## > Estudando:
-<p>
-<code><img src="https://img.shields.io/badge/React Native-3f444f?style=for-the-badge&logo=react&logoColor=blue"></code>
+<p align='center'>
+  <code><img src="https://img.shields.io/badge/React Native-3f444f?style=for-the-badge&logo=react&logoColor=blue"></code>
 </p>
 
 <p align="center">
