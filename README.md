@@ -18,7 +18,7 @@
   <strong>📖 Html, Css, JavaScript, TypeScript Java, Styled Components, Sass, TailwindCss, Bootstrap, React, Next.js, Node, Sql</strong>
   <br>
   <div align='center'>
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,styledcomponents,sass,tailwindcss,bootstrap,react,next,nodejs,mysql&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,styledcomponents,sass,tailwindcss,bootstrap,react,next,nodejs,mysql&perline=5"/>
     <br>
     <br>
     <code><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></code>
@@ -31,7 +31,7 @@
   <strong>📖 VS Code, Visual Studio, Eclipse, Sublime, Postman, Firebird, Mysql, Sqlite, Canva</strong>
   <br>
   <div align='center'>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,postman,sqlite&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,postman,sqlite&perline=5"/>
     <br>
     <br>
     <code><img src="https://img.shields.io/badge/Sublime-black?style=for-the-badge&logo=sublimetext&logoColor=orange"></code>
