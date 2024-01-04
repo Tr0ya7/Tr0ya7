@@ -18,7 +18,7 @@
   <strong>📖 Html, Css, JavaScript, TypeScript Java, Styled Components, Sass, TailwindCss, Bootstrap, React, Next.js, Node, Sql</strong>
   <br>
   <div align='center'>
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,react,next,tailwindcss,sass,styledcomponents,bootstrap,mysql&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,java,react,next,tailwindcss,sass,styledcomponents,bootstrap,mysql&perline=5"/>
     <br>
     <br>
     <code><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></code>
