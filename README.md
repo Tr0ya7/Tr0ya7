@@ -41,7 +41,7 @@
 </p>
 <br>
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tr0ya7&langs_count=12&layout=compact&theme=algolia&card_width=500&color="white" />
+  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tr0ya7&layout=compact&hide_border=true&theme=radical&langs_count=6&border_radius=8" />
 </p>
 
 ## > Estudando:
