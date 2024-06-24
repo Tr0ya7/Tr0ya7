@@ -2,7 +2,7 @@
 
 ## > Sobre Mim: 
 #### Técnico em Desenvolvimento de Sistemas pela <a href="http://www.etecjau.com.br/etecjau/">ETEC Joaquim Ferreira do Amaral</a>.
-#### 💾 - Dev. FullStack & estudando Mobile
+#### 💾 - Dev. FullStack
 #### 📓 - Cursando Análise e Desenvolvimento de Sistemas
 <br>
 
@@ -14,7 +14,7 @@
 
 </p>
 <p align='center'>
-  <strong>📖 Html, Css, JavaScript, TypeScript Go, Gin, Gorm, Styled Components, Sass, TailwindCss, Bootstrap, React, Next.js, Node, SQL, PostgreSQL, Firebird</strong>
+  <strong>📖 Html, Css, JavaScript, TypeScript, Styled Components, Sass, TailwindCss, Bootstrap, React, Next.js, Node, SQL, PostgreSQL, Firebird</strong>
   <br>
   <div align='center'>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwindcss,sass,styledcomponents,bootstrap,go,nodejs,express,postgresql&perline=5"/>
