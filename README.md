@@ -7,7 +7,7 @@
 <br>
 
 ## > Contato:
-<a href="mailto:DevLuizHBarros@proton.me"><code><img src="https://img.shields.io/badge/Proton Mail-6D4AFF?style=for-the-badge&logo=ProtonMail&logoColor=white"></a></code>
+<a href="mailto:DevLuizHBarros@gmail.com"><code><img src="https://img.shields.io/badge/Gmail-6D4AFF?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
 
 ## > Linguagens e Ferramentas:
 <p aling='center'>
