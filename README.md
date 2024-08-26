@@ -14,8 +14,6 @@
 
 </p>
 <p align='center'>
-  <strong>📖 Html, Css, JavaScript, TypeScript, Styled Components, Sass, TailwindCss, Bootstrap, React, Next.js, Node, Express, Sequelize, Java, SQL, PostgreSQL, Firebird</strong>
-  <br>
   <div align='center'>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwindcss,sass,styledcomponents,nodejs,express,sequelize,java,postgresql&perline=5"/>
     <br>
