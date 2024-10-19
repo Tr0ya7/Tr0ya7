@@ -28,6 +28,7 @@
 ## > Estudando:
 <p align='center'>
   <code><img src="https://img.shields.io/badge/Spring Boot-66ad1f?style=for-the-badge&logo=spring&logoColor=white"></code>
+  <code><img src="https://img.shields.io/badge/Angular-e80000?style=for-the-badge&logo=angular&logoColor=white"></code>
 </p>
 
 <p align="center">
