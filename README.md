@@ -15,7 +15,7 @@
 </p>
 <p align='center'>
   <div align='center'>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwindcss,sass,styledcomponents,nodejs,express,sequelize,java,postgresql&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwindcss,sass,styledcomponents,nodejs,express,sequelize,java,spring,postgresql&perline=5"/>
     <br>
   </div>
 </p>
@@ -27,7 +27,6 @@
 
 ## > Estudando:
 <p align='center'>
-  <code><img src="https://img.shields.io/badge/Spring Boot-66ad1f?style=for-the-badge&logo=spring&logoColor=white"></code>
   <code><img src="https://img.shields.io/badge/Angular-e80000?style=for-the-badge&logo=angular&logoColor=white"></code>
 </p>
 
