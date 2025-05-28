@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/axios-%2320232a.svg?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/clerk-%2320232a.svg?style=for-the-badge&logo=clerk&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/styled components-%2320232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=white" />
