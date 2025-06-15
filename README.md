@@ -25,6 +25,9 @@
   <img src="https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/axios-%2320232a.svg?style=for-the-badge&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/clerk-%2320232a.svg?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/prisma-%2320232a.svg?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/neon-%2320232a.svg?style=for-the-badge&logo=neon&logoColor=white" />
+  <img src="https://img.shields.io/badge/drizzle-%2320232a.svg?style=for-the-badge&logo=drizzle&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/styled components-%2320232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=white" />
@@ -56,9 +59,6 @@
 ## > Estudando:
 <div>
   <img src="https://img.shields.io/badge/react native-%2320232a.svg?style=for-the-badge&logo=react-native&logoColor=white" />
-  <img src="https://img.shields.io/badge/prisma-%2320232a.svg?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/neon-%2320232a.svg?style=for-the-badge&logo=neon&logoColor=white" />
-  <img src="https://img.shields.io/badge/drizzle-%2320232a.svg?style=for-the-badge&logo=drizzle&logoColor=white" />
   <img src="https://img.shields.io/badge/spring boot-%2320232a.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
