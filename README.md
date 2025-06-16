@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/react native-%2320232a.svg?style=for-the-badge&logo=react-native&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/axios-%2320232a.svg?style=for-the-badge&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/clerk-%2320232a.svg?style=for-the-badge&logo=clerk&logoColor=white" />
@@ -57,8 +58,7 @@
 <br>
 
 ## > Estudando:
-<div>
-  <img src="https://img.shields.io/badge/react native-%2320232a.svg?style=for-the-badge&logo=react-native&logoColor=white" />
+<div>  
   <img src="https://img.shields.io/badge/spring boot-%2320232a.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
