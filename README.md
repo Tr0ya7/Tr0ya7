@@ -58,7 +58,9 @@
 <br>
 
 ## > Estudando:
-<div>  
+<div>
+  <img src="https://img.shields.io/badge/wordpress-%2320232a.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/elementor-%2320232a.svg?style=for-the-badge&logo=elementor&logoColor=white" />
   <img src="https://img.shields.io/badge/spring boot-%2320232a.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
