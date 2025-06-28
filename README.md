@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/postgresql-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebird-%2320232a.svg?style=for-the-badge&logo=firebird&logoColor=white" />
 </div>
 
 <br>
