@@ -28,8 +28,7 @@
   <img src="https://img.shields.io/badge/clerk-%2320232a.svg?style=for-the-badge&logo=clerk&logoColor=white" />
   <img src="https://img.shields.io/badge/wordpress-%2320232a.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/elementor-%2320232a.svg?style=for-the-badge&logo=elementor&logoColor=white" />
-  <img src="https://img.shields.io/badge/prisma-%2320232a.svg?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/neon-%2320232a.svg?style=for-the-badge&logo=neon&logoColor=white" />
+  <img src="https://img.shields.io/badge/prisma-%2320232a.svg?style=for-the-badge&logo=prisma&logoColor=white" />  
   <img src="https://img.shields.io/badge/drizzle-%2320232a.svg?style=for-the-badge&logo=drizzle&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=white" />
