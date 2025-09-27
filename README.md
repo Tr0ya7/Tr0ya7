@@ -44,12 +44,8 @@
 ## > Ferramentas:
 <div>
   <img src="https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/photoshop-%2320232a.svg?style=for-the-badge&logo=photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/visual studio code-%2320232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/visual studio-%2320232a.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/microsoft office-%2320232a.svg?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/photoshop-%2320232a.svg?style=for-the-badge&logo=photoshop&logoColor=white" />  
   <img src="https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/windows-%2320232a.svg?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-%2320232a.svg?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
