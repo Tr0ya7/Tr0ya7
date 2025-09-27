@@ -32,8 +32,6 @@
   <img src="https://img.shields.io/badge/neon-%2320232a.svg?style=for-the-badge&logo=neon&logoColor=white" />
   <img src="https://img.shields.io/badge/drizzle-%2320232a.svg?style=for-the-badge&logo=drizzle&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/styled components-%2320232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/sequelize-%2320232a.svg?style=for-the-badge&logo=sequelize&logoColor=white" />
