@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/axios-%2320232a.svg?style=for-the-badge&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/clerk-%2320232a.svg?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/wordpress-%2320232a.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/elementor-%2320232a.svg?style=for-the-badge&logo=elementor&logoColor=white" />
   <img src="https://img.shields.io/badge/prisma-%2320232a.svg?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/neon-%2320232a.svg?style=for-the-badge&logo=neon&logoColor=white" />
   <img src="https://img.shields.io/badge/drizzle-%2320232a.svg?style=for-the-badge&logo=drizzle&logoColor=white" />
@@ -57,9 +59,7 @@
 <br>
 
 ## > Estudando:
-<div>
-  <img src="https://img.shields.io/badge/wordpress-%2320232a.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/elementor-%2320232a.svg?style=for-the-badge&logo=elementor&logoColor=white" />
+<div>  
   <img src="https://img.shields.io/badge/spring boot-%2320232a.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
